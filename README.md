@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Custom Model KAITO Sample</h1>
+	<h1>Qwen Model KAITO Deployment Sample</h1>
 	<p><strong>Deploy and benchmark Qwen2.5-3B across AKS and Azure Container Apps with Microsoft tooling.</strong></p>
 </div>
 
